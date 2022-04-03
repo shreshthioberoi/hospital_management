@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1640079641 source:c:\hospital management\main.cpp
+	<iostream>
+	<windows.h>
+	<cstdlib>
+	<string.h>
+	<conio.h>
+
